@@ -1,6 +1,6 @@
-# GW-Open-Data-Workshop
+# Gravitational Waves Open Data Workshop 2025
 
-Gravitational Waves Open Data Workshop 2025
+![GW-Open-Data-Workshop](/assets/banner.jpg)
 
 [Gravitational Waves Open Data Workshop 2025](https://gw-odw.thinkific.com/courses/odw2025) is the 8th in a series of workshops that started in 2018. The number of confirmed and analyzed detections by the LVK Collaboration in the last observing runs has climbed up to just shy of 100 and the list continues to grow as more confirmed detections are added.
 
@@ -17,3 +17,13 @@ GWOSC is a collaboration between the LIGO Scientific Collaboration (LSC), the Vi
 ## Course Schedule
 
 The workshop will be streamed live via Zoom from Monday, May 12 to Wednesday, May 14, each day from 9:00 to 10:30 AM Pacific Time (US and Canada). The Zoom room will open 8:45 AM.
+
+## Zoom Connection Details
+
+You’ll find the Zoom links below, and they’re also available in the "How to Connect" lesson on the [Thinkific](https://gw-odw.thinkific.com/courses/odw2025) course page.
+
+| Day      | Date         | Time (Nepal Time) |  Zoom Link                                                                                                         | Meeting ID    | Passcode |
+|----------|--------------|-------------------------------------------------------------------------------------------------------------------| ------ | ---------------|----------|
+| Day 1    | Monday, May 12   | 9:15 PM - 10:30 PM |  [Join Zoom](https://caltech.zoom.us/j/81317436970?pwd=NO6bugbkOm0phmCypcqShEJj1Ot5LV.1)                        | 813 1743 6970 | 659496   |
+| Day 2    | Tuesday, May 13  | 9:15 PM - 10:30 PM | [Join Zoom](https://caltech.zoom.us/j/87442520047?pwd=N3WcRyo1hvsu45TSrwbhCu21Sa13Ep.1)                        | 874 4252 0047 | 236650   |
+| Day 3    | Wednesday, May 14| 9:15 PM - 10:30 PM | [Join Zoom](https://caltech.zoom.us/j/84171098686?pwd=NMAhopeSz6ton4zV5ZUDQ4zHXhgRKc.1)                        | 841 7109 8686 | 091422   |
